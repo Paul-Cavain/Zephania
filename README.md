@@ -1,2 +1,2 @@
 # Zephania
-aim high
+First commit
